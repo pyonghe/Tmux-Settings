@@ -30,10 +30,10 @@ tmux a -t <session name>
 |Prefix + d        |Detach from current session |
 |Prefix + c        |Create a new Window|
 |Prefix + ,        |Rename current Window|
-|Prefix + p/n      |Go the previous / next window||
+|Prefix + p / n      |Go the previous / next window||
 |Prefix + z        |Zoom in to current window|
 |Prefix + spacebar | cycle thru differnt pane view|
-|Prefix + {/}      | swich pane to left or right pane
+|Prefix + { / }      | swich pane to left or right pane
 |Prefix + shift + p | Start/stop logging of current pane to ${HOME}|
 |Prefix + alt + p | screen capture of current visible pane to ${HOME}|
 |Prefix + alt + shift + p | Save complete history to ${HOME}|
