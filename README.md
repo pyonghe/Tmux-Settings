@@ -1,10 +1,15 @@
 # Tmux-Settings
-* Tmux Settings / Cheat sheet
+* Back up of Tmux Settings + Cheat sheet
 
 # Setting up 
 ```
 apt-get update
 apt-get install tmux
+git clone https://github.com/yyhh91/Tmux-Settings.git
+cd Tmux-Settings/
+mv .tmux.conf ~/tmux.conf
+mv theme/blue.tmuxtheme ${HOME}/.tmux-themepack/powerline/block/blue.tmuxtheme
+mv tmux-logging/* /opt/tmux-logging/
 ```
 # Modify / Customization
 * Edit ${HOME}/.tmux.conf
