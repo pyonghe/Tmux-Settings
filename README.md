@@ -47,7 +47,8 @@ tmux a -t <session name>
 
 |Keys              |Command|
 |------------------|-------|
-|Prefix [            |Enter edit mode |
+|Prefix + [            |Enter edit mode |
+|Prefix + ]	|Paste selected text|	
 |Space		   |Select text|
 |Enter		| Copy selected text|
 |? 		| Search upwards for text|
