@@ -56,6 +56,7 @@ tmux a -t <session name>
 
 * Basic Bash Commands
 |Keys              |Command|
+|------------------|-------|
 |Ctrl + r | Reverse lookup|
 |Ctrl + s | Forward lookup|
 
