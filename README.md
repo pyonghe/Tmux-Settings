@@ -25,7 +25,7 @@ tmux ls
 tmux a -t <session name>
 
 ```
-* Key Bindings
+* Key Bindings (Normal Operation)
 
 |Keys              |Command|
 |------------------|-------|
@@ -42,3 +42,13 @@ tmux a -t <session name>
 |Prefix + shift + p | Start/stop logging of current pane to ${HOME}|
 |Prefix + alt + p | screen capture of current visible pane to ${HOME}|
 |Prefix + alt + shift + p | Save complete history to ${HOME}|
+
+* Key Bindings (Copy Operation)
+
+|Keys              |Command|
+|------------------|-------|
+|Prefix [            |Enter edit mode |
+|Space		   |Select text|
+|Enter		| Copy selected text|
+|? 		| Search upwards for text|
+|/		| Search downwards for text|
