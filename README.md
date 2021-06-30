@@ -61,3 +61,13 @@ tmux a -t <session name>
 |Ctrl + r | Reverse lookup|
 |Ctrl + s | Forward lookup|
 
+# Reference
+
+* IPPSEC Video on Tmux - https://www.youtube.com/watch?v=Lqehvpe_djs
+* Tmux Logging - https://github.com/tmux-plugins/tmux-logging
+* Tmux Cheatsheet - https://tmuxcheatsheet.com/
+* .tmux.conf 
+	- https://www.dericpang.com/blog/a-minimum-viable-tmux-config/
+	- https://github.com/lawrencesystems/dotfiles/blob/master/.tmux.conf
+	- https://gist.github.com/prachauthit/595cd3596267b303cc77fe0409c33530
+ 
